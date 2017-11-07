@@ -10,7 +10,7 @@ só tem material em Inglês! Então.. grande parte do material aqui serão tradu
 
 
 
-### Vídeos Aulas
+### Vídeos Aulas (em breve)
 
 - Aula 01
 - Aula 02
@@ -25,11 +25,15 @@ só tem material em Inglês! Então.. grande parte do material aqui serão tradu
 
 ### Artigos traduzidos
 
+ainda nenhum :(
 
 ### Perguntas e Respostas - Tradução
 
+ainda nenhum ):
+
 ### Dicas em português
 
+ainda nenhum :(
 
 ## Contribuindo
 
