@@ -44,7 +44,7 @@ ainda nenhum :(
 
 ## Contribuindo
 
-Você também pode escrever as suas dicas! É muito fácil, basta enviar um PR para este repositório criando com o seu material proposto, lembre de cabrichar ;) 
+Você também pode escrever as suas dicas! É muito fácil, basta enviar um PR para este repositório com o seu material proposto, lembre de cabrichar ;) 
 
 Conto com os comentários e sugestões de vocês nas issues para melhorar o desenvolvimento deste repositório. 
 
