@@ -79,7 +79,7 @@ O UiPath Studio Community é a ferramenta utilizada para aprender sobre RPA e co
 
 
 **MUITO IMPORTANTE** 
-1) clique no em todos all availables (canto superior esquerdo)
+1) clique no all availables (canto superior esquerdo)
 2) ajuste os filtros, deixando igual a imagem abaixo
 3) instala todas as bibliotecas, sem dó!
 
