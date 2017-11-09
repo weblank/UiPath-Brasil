@@ -8,7 +8,7 @@
 O objetivo deste repositório é trazer maior facilidade para os analistas de negócio, analistas de sistemas e desenvolvedores do mercado de [RPA (Robotic Process Automation)](https://en.wikipedia.org/wiki/Robotic_process_automation) e especificamente amantes da ferramenta [UiPath](https://www.uipath.com/).
 
 Qual a GRANDE dificuldade para nós brazucas ? 
-só tem material em Inglês! Então.. grande parte do material aqui serão traduções livres para o português de materias já diponíveis em inglês.
+só tem material em Inglês! Então.. grande parte do material aqui serão traduções livres para o português de materiais já diponíveis em inglês.
 
 ### Instalação da versão Community
 
