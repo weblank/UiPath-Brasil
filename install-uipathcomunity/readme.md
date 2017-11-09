@@ -6,7 +6,7 @@
 
 ## Instalação da versão community do UiPath Studio
 
-O UiPath Studio Community é a ferramenta utilizada para aprender sobre RPA e conhecermos mais sobre as features disponíveis pela UiPath, neste tutorial vamos instalar a versão 2017.1 de 14 de Agosto de 2017 [leia mais](https://www.uipath.com/release-notes).
+O UiPath Studio Community é a ferramenta utilizada para aprender sobre RPA e conhecermos mais sobre as features disponíveis pela UiPath, neste tutorial vamos instalar a versão 2017.1 Moonlight de 14 de Agosto de 2017 [leia mais](https://www.uipath.com/release-notes).
 
 
 ### 1) Download
