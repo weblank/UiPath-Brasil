@@ -1,6 +1,9 @@
 # UiPath - RPA
 
-![UiPath](./assets/images/uipath-logo.png)
+![UiPath](.././assets/images/uipath-logo.png)
+![UiPath](././assets/images/uipath-logo.png)
+![UiPath](../../assets/images/uipath-logo.png)
+![UiPath](/assets/images/uipath-logo.png)
 
 
 ## Instalação da versão community do UiPath Studio
@@ -16,11 +19,11 @@ O UiPath Studio Community é a ferramenta utilizada para aprender sobre RPA e co
 
 **click no botão "GET COMMUNITY EDITION"**
 
-![link do community](..\assets\install-uipathcomunity\images\printscreen01.png)
+![link do community](../assets/install-uipathcomunity/images/printscreen01.png)
 
 
 **Preencha seus dados pessoas e clicar no botão "REQUEST COMMUNITY EDITION"**
-![link do community](..\assets\install-uipathcomunity\images\printscreen02.png)
+![link do community](../assets/install-uipathcomunity/images/printscreen02.png)
 
 
 
