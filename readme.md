@@ -14,9 +14,9 @@ só tem material em Inglês! Então.. grande parte do material aqui serão tradu
 
 - [step-by-step](./install-uipathcomunity/readme.md)
 
-### Vídeos Aulas (em breve)
+### Aulas Traduzidas (lançamento - aos poucos)
 
-- Aula 01 - Introdução para UiPath
+- [Aula 01 - Introdução para UiPath](./curso/aula-01/readme.md)
 - Aula 02 - Variáveis, Data Types & Control Flows
 - Aula 03 - Manipulação dos dados
 - Aula 04 - modo Recording
